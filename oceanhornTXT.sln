@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oceanhornTXT", "oceanhornTXT.csproj", "{1D53C280-5734-4E79-8AF9-E3CA5CCC808D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D53C280-5734-4E79-8AF9-E3CA5CCC808D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D53C280-5734-4E79-8AF9-E3CA5CCC808D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D53C280-5734-4E79-8AF9-E3CA5CCC808D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D53C280-5734-4E79-8AF9-E3CA5CCC808D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CD1B175-CE00-4FB5-9C0D-CF27677E588B}
+	EndGlobalSection
+EndGlobal
