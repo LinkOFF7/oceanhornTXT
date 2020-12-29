@@ -1,7 +1,7 @@
 # Usage:
 
 ```sh
-sakunaTool.exe [argument] <archive> [additional parameter]
+oceanhornTXT.exe [argument] <txt-file>
 
 Arguments:
 -d:       Decrypt TXT file
