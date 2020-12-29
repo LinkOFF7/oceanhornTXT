@@ -48,7 +48,7 @@ namespace oceanhornTXT
                 var uSize = reader.ReadInt32();
                 if (uSize < 0)
                 {
-                    reader.BaseStream.Seek(0x02, SeekOrigin.Begin); //skip first 2 bytes. Based on example i've got.
+                    reader.BaseStream.Seek(0x02, SeekOrigin.Begin); //skip first 2 bytes. Based on example i've get.
                     uSize = reader.ReadInt32();
                     var data = reader.ReadBytes((int)(fileName.Length - 4));
                     byte[] uncArray = DecompressZlib(data);
